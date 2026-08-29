@@ -1,0 +1,222 @@
+{
+  "firma": "Flächenagentur Baden-Württemberg GmbH",
+  "stelle": "Geschäftsführer (m/w/d)",
+  "ort": "Ostfildern",
+  "plz": "73760",
+  "region_badge": "Ostfildern & Umgebung",
+  "farbe_primary": "#69B024",
+  "farbe_secondary": "#3E6915",
+  "anrede": "sie",
+  "benefit_top": "Große Gestaltungsspielräume · unbefristet",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Flexible Arbeitszeiten",
+    "Flache Hierarchien",
+    "Freundliches Arbeitsklima"
+  ],
+  "aufgaben": [
+    "Fachliche, personelle und operative Führung des 30-köpfigen Teams",
+    "Weiterentwicklung der Geschäftsbereiche Ökokonto, Kompensation, Landschafts- und Umweltplanung",
+    "Entwicklung neuer Geschäftsfelder, Leistungen und Kooperationen",
+    "Finanz-, Liquiditäts- und Ressourcenplanung",
+    "Beratung von Vorhabenträgern, Flächeneigentümern und Kommunen sowie Repräsentation in Fachöffentlichkeit und Politik"
+  ],
+  "anforderung": "Abgeschlossenes Hochschulstudium – zum Beispiel Landschaftsplanung, Landschaftsökologie, Biologie, Geoökologie, Agrar-, Forst- oder Umweltwissenschaften bzw. Wirtschafts- und Verwaltungswissenschaften – dazu Führungserfahrung, Erfahrung in der wirtschaftlichen Steuerung einer Organisation und Kenntnisse im Naturschutz-, Umwelt-, Planungs- und Verwaltungsrecht.",
+  "fachrichtungen_frage": "Was ist Ihr fachlicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Landschaftsplanung / Landschaftsökologie",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Hochschulstudium (Master / Diplom)",
+          "icon": "🎓"
+        },
+        {
+          "label": "Hochschulstudium (Bachelor)",
+          "icon": "📘"
+        },
+        {
+          "label": "Promotion",
+          "icon": "🏅"
+        },
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Biologie / Geoökologie",
+      "icon": "🔬",
+      "qualifikationen": [
+        {
+          "label": "Hochschulstudium (Master / Diplom)",
+          "icon": "🎓"
+        },
+        {
+          "label": "Hochschulstudium (Bachelor)",
+          "icon": "📘"
+        },
+        {
+          "label": "Promotion",
+          "icon": "🏅"
+        },
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Agrar-, Forst- & Umweltwissenschaften",
+      "icon": "🌳",
+      "qualifikationen": [
+        {
+          "label": "Hochschulstudium (Master / Diplom)",
+          "icon": "🎓"
+        },
+        {
+          "label": "Hochschulstudium (Bachelor)",
+          "icon": "📘"
+        },
+        {
+          "label": "Promotion",
+          "icon": "🏅"
+        },
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Wirtschafts- & Verwaltungswissenschaften",
+      "icon": "📊",
+      "qualifikationen": [
+        {
+          "label": "Hochschulstudium (Master / Diplom)",
+          "icon": "🎓"
+        },
+        {
+          "label": "Hochschulstudium (Bachelor)",
+          "icon": "📘"
+        },
+        {
+          "label": "Promotion",
+          "icon": "🏅"
+        },
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Hochschulstudium (Master / Diplom)",
+          "icon": "🎓"
+        },
+        {
+          "label": "Hochschulstudium (Bachelor)",
+          "icon": "📘"
+        },
+        {
+          "label": "Promotion",
+          "icon": "🏅"
+        },
+        {
+          "label": "Vergleichbare Qualifikation",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "fuehrerschein_optionen": [
+    {
+      "label": "Ja, Klasse B",
+      "icon": "🚗"
+    },
+    {
+      "label": "Ja, weitere Klassen",
+      "icon": "🚚"
+    },
+    {
+      "label": "Nein",
+      "icon": "❌"
+    }
+  ],
+  "zusatz_optionen": {
+    "verfuegbarkeit": [
+      {
+        "label": "Sofort",
+        "icon": "⚡"
+      },
+      {
+        "label": "Innerhalb von 3 Monaten",
+        "icon": "📅"
+      },
+      {
+        "label": "In 3–6 Monaten",
+        "icon": "🗓️"
+      },
+      {
+        "label": "Muss ich klären",
+        "icon": "🤔"
+      }
+    ],
+    "situation": [
+      {
+        "label": "In leitender Position",
+        "icon": "💼"
+      },
+      {
+        "label": "In Festanstellung",
+        "icon": "🏢"
+      },
+      {
+        "label": "Selbstständig / Beratung",
+        "icon": "🛠️"
+      },
+      {
+        "label": "Aktuell in Veränderung",
+        "icon": "🔍"
+      }
+    ]
+  },
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "30",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2010",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "2",
+        "label": "Standorte in BW"
+      }
+    ],
+    "text": "Die Flächenagentur Baden-Württemberg GmbH ist ein landesweit tätiger Dienstleister für Kompensationslösungen, Ökokonten und ökologische Fachplanung mit Sitz in Ostfildern und einer Regionalgeschäftsstelle in Offenburg. Das interdisziplinäre Team arbeitet an der Schnittstelle zwischen Naturschutz, Landnutzung, Vorhabenträgern, Flächeneigentümern, Kommunen und Behörden."
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/foto-01-team.jpg",
+    "img/foto-02-buerogebaeude.jpg",
+    "img/foto-03-wacholderheide.jpg",
+    "img/foto-04-artenvielfalt.jpg",
+    "img/foto-05-fachveranstaltung.jpg"
+  ],
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Ostfildern"
+  },
+  "kunde_tab": "09 Flächenagentur Baden-Württemberg",
+  "quelle": "https://flaechenagentur-bw.green-careers.de",
+  "logo": "logo.jpg"
+}
