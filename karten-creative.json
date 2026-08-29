@@ -1,0 +1,21 @@
+{
+  "name": "creative-3-karte-lokal",
+  "logo": "logo.jpg",
+  "karte": "img/karte.jpg",
+  "primary": "#69B024",
+  "primary_ink": "#FFFFFF",
+  "balken": "#3E6915",
+  "balken_ink": "#FFFFFF",
+  "headline": [
+    "GESCHÄFTS-",
+    "FÜHRER"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "staedte": "Ostfildern · Stuttgart · Esslingen & Umgebung",
+  "pills": [
+    "30-köpfiges Team",
+    "Große Gestaltungsspielräume"
+  ],
+  "cta": "In 60 Sekunden zum unverbindlichen Job-Angebot",
+  "pin_label": "Ostfildern"
+}

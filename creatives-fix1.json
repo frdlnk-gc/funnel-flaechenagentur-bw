@@ -1,0 +1,20 @@
+[
+  {
+    "name": "creative-1-benefit-checkliste",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-01-team.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'Flächenagentur Baden-Württemberg GmbH' (grüne Fläche mit weißen und grünen Punkten), (2) ein Foto einer Gruppe Menschen in orangen Warnwesten und Helmen bei einem Ortstermin mit weiter Landschaft im Hintergrund. Nutze das Foto unverändert als obere Bildhälfte (ohne Köpfe anzuschneiden), darunter eine ruhige dunkelgrüne Fläche (#3E6915). Layout unten von oben nach unten, exakt diese Zeilen: Headline groß, fett, weiß: „GESCHÄFTSFÜHRER“ mit kleinem Zusatz „(m/w/d)“. Standort-Zeile mit kleinem roten Pin-Symbol: „Ostfildern · Stuttgart · Esslingen & Umgebung“. Vier Pills (weiße abgerundete Balken mit grünem Häkchen, schwarze Schrift): „Führung eines 30-köpfigen Teams“ / „Große Gestaltungsspielräume“ / „Flexible Arbeitszeiten“ / „Unbefristeter Arbeitsvertrag“. Ganz unten ein Balken in Grün (#69B024) mit weißer Schrift: „Ihr unverbindliches Job-Angebot – diskret“. Das beigefügte Logo original und unverändert oben links auf weißer Mini-Kachel. Sachliches, hochwertiges Design. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Postanschriften, Gehaltszahlen, erfundene Siegel oder Logos. Erfinde KEINEN weiteren Text: setze ausschließlich die oben wörtlich vorgegebenen Zeilen, buchstabengetreu inklusive Umlaute und ß. Logo und Fotos nicht verändern, verzerren oder umfärben (nur zuschneiden). Aller Text vollständig innerhalb seiner Flächen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-2-natur-collage",
+    "bilder": [
+      "logo.jpg",
+      "img/hero.jpg",
+      "img/foto-03-wacholderheide.jpg",
+      "img/foto-02-buerogebaeude.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als saubere Foto-Collage. Beigefügt: (1) das Firmenlogo 'Flächenagentur Baden-Württemberg GmbH', (2) ein Foto eines sonnendurchfluteten Buchenwaldes, (3) ein Foto einer Wacholderheide, (4) ein Foto eines modernen Bürogebäudes mit dunkler Fassade. Ordne die drei Fotos als klares Raster mit schmalen weißen Fugen an (ein großes Foto oben, zwei kleinere darunter nebeneinander), jedes Foto unverändert. Darunter eine weiße Fläche mit genau zwei Textelementen: erstens die Headline groß, fett, dunkelgrün: „Naturschutz, Planung und Wirtschaftlichkeit zusammenbringen“; zweitens – PFLICHT, darf nicht weggelassen werden – direkt darunter ein durchgehender grüner Balken (#69B024) über die volle Breite mit weißer Schrift: „Geschäftsführer (m/w/d) in Ostfildern“. Das beigefügte Logo original und unverändert unten mittig. Viel Weißraum, sachlich und hochwertig. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Postanschriften, Gehaltszahlen, erfundene Siegel oder Logos. Erfinde KEINEN weiteren Text: setze ausschließlich die oben wörtlich vorgegebenen Zeilen, buchstabengetreu inklusive Umlaute und ß. Logo und Fotos nicht verändern, verzerren oder umfärben (nur zuschneiden). Aller Text vollständig innerhalb seiner Flächen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]

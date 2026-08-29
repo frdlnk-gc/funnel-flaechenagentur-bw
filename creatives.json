@@ -1,0 +1,28 @@
+[
+  {
+    "name": "creative-1-benefit-checkliste",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-01-team.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'Flächenagentur Baden-Württemberg GmbH' (gruene Flaeche mit weissen und gruenen Punkten, dunkler Schriftzug), (2) ein Foto einer grossen Gruppe Menschen in orangen Warnwesten und Helmen bei einem Ortstermin auf einem Dach mit weiter Landschaft im Hintergrund. Nutze das Foto unveraendert als obere Bildhaelfte (ohne Koepfe anzuschneiden), darunter eine ruhige dunkelgruene Flaeche (#3E6915). Layout unten von oben nach unten: Headline gross, fett, weiss: 'GESCHAEFTSFUEHRER' mit kleinem Zusatz '(m/w/d)'. Standort-Zeile mit kleinem roten Pin-Symbol: 'Ostfildern · Stuttgart · Esslingen & Umgebung'. Vier Pills (weisse abgerundete Balken mit gruenem Haekchen, schwarze Schrift): 'Fuehrung eines 30-koepfigen Teams' / 'Grosse Gestaltungsspielraeume' / 'Flexible Arbeitszeiten' / 'Unbefristeter Arbeitsvertrag'. Ganz unten ein Balken in Gruen (#69B024) mit weisser Schrift: 'Ihr unverbindliches Job-Angebot – diskret'. Das beigefuegte Logo original und unveraendert oben links auf weisser Mini-Kachel. Sachliches, hochwertiges Design, kein Blue-Collar-Look. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-2-natur-collage",
+    "bilder": [
+      "logo.jpg",
+      "img/hero.jpg",
+      "img/foto-03-wacholderheide.jpg",
+      "img/foto-02-buerogebaeude.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als saubere Foto-Collage. Beigefügt: (1) das Firmenlogo 'Flächenagentur Baden-Württemberg GmbH' (gruene Flaeche mit Punkten), (2) ein Foto eines sonnendurchfluteten Buchenwaldes, (3) ein Foto einer Wacholderheide mit Wiese und Buschgruppen, (4) ein Foto eines modernen Buerogebaeudes mit dunkler Fassade. Ordne die drei Fotos als klares Raster mit schmalen weissen Fugen an (ein grosses Foto oben, zwei kleinere darunter nebeneinander), jedes Foto unveraendert. Darunter eine weisse Flaeche mit Headline gross, fett, dunkelgruen: 'Naturschutz, Planung und Wirtschaftlichkeit zusammenbringen'; darunter eine kleinere Zeile auf gruenem Balken (#69B024) in weiss: 'Geschaeftsfuehrer (m/w/d) in Ostfildern'. Das beigefuegte Logo original und unveraendert unten mittig. Viel Weissraum, sachlich und hochwertig, kein weiterer Text. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-4-arbeitsplatz-vollbild",
+    "bilder": [
+      "logo.jpg",
+      "img/hero.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als Vollbild. Beigefügt: (1) das Firmenlogo 'Flächenagentur Baden-Württemberg GmbH' (gruene Flaeche mit Punkten), (2) ein Foto eines sonnendurchfluteten Buchenwaldes mit hohen, geraden Staemmen. Nutze das Foto formatfuellend und unveraendert als Hintergrund; lege ueber die untere Bildhaelfte einen weichen Verlauf von transparent nach fast schwarz, damit der Text sicher lesbar ist. Text unten linksbuendig: kleine hellgruene Ueberzeile 'FLAECHENAGENTUR BADEN-WUERTTEMBERG SUCHT'; darunter eine sehr grosse, fette weisse Headline in zwei Zeilen: 'Fuehren, wo Naturschutz wirkt.'; darunter eine kleinere weisse Zeile: 'Geschaeftsfuehrer (m/w/d) · 30 Mitarbeitende · Ostfildern'. Das beigefuegte Logo original und unveraendert oben rechts auf einer kleinen weissen Kachel. Kein weiterer Text, ruhige hochwertige Anmutung. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]
